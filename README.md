@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **Henrycodeproj/HenrycodeProj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1>HELLO FRIENDS<h1>
+<a href = "https://google.com">HELLO FRIENDS</a>
 
 Here are some ideas to get you started:
 
