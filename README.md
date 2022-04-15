@@ -68,6 +68,9 @@ I am a self taught software engineer/developer and have been coding since the en
 📫***Reach Me:*** lihenryhl.work@gmail.com\
 🔮***Fun Fact:*** I don't know when to quit.
 
+<br></br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrycodeproj&" alt="henrycodeproj" /></p>
 
 <br></br>
 **Connect with me!**\
