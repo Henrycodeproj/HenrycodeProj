@@ -6,15 +6,15 @@ I am a self taught software engineer/developer and have been coding since the en
 <p align ="left">
   
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"title = "Bootstrap" style = "margin-right:15px;"/> 
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"title = "Bootstrap" style = "margin-right:15px;"/> 
 </a> 
   
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title = "CSS" style = "margin-right:15px;"/> 
+  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" title = "CSS" style = "margin-right:15px;"/> 
 </a> 
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title = "HTML" style = "margin-right:15px;"/> </a>
+  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" title = "HTML" style = "margin-right:15px;"/> </a>
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title = "Javascript" style = "margin-right:15px;"/> 
@@ -38,14 +38,33 @@ I am a self taught software engineer/developer and have been coding since the en
   
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img align = "center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title = "SQLite" style = "margin-right:15px;"/> 
-</a>
+</a> 
   
 </p>
   
 
-**Current Frameworks:** React, Django, Flask,
+**Current Frameworks:** 
+<p align = "left">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img align = "center" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="60" height="60" title = "Django"/> 
+</a>
+  
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+  <img align = "center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45" title = "Flask"/>
+</a> 
+  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" title = "React"/> 
+</a>
+  
+</p>
 
-🏆 My current goals are to create impactful technology for others through the tech industry or through my own personal projects.
-🎨 My personal hobbies 
+🏆 ***My current goals:*** I want to create impactful technology for others through the tech industry or through my own personal projects.\
+🎨 ***My personal hobbies:*** Biking, Carwork, aquascaping, coding, chess, adventuring, board games with friends, piano.\
+📫***Reach Me:*** lihenryhl.work@gmail.com\
+🔮***Fun Fact:*** I don't know when to quit.
 
+
+<br></br>
+**Connect with me!**\
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' title = "Github" align ="center">](https://github.com/https://github.com/Henrycodeproj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' title="LinkedIn" align = "center">](https://www.linkedin.com/in/https://www.linkedin.com/in/henryli1998//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title = "Personal Portfolio" align = "center">](https://henryli.info/)  
