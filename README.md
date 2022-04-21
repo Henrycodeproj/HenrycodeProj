@@ -74,4 +74,4 @@ I am a self taught software engineer/developer and have been coding since the en
 
 <br></br>
 **Connect with me**\
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' title = "Github" align ="center">](https://github.com/https://github.com/Henrycodeproj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' title="LinkedIn" align = "center">](https://www.linkedin.com/in/https://www.linkedin.com/in/henryli1998//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title = "Personal Portfolio" align = "center">](https://henryli.info/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' title="LinkedIn" align = "center">](https://www.linkedin.com/in/https://www.linkedin.com/in/henryli1998//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title = "Personal Portfolio" align = "center">](https://henryli.info/)  
