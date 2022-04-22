@@ -73,7 +73,7 @@ I am a self taught software engineer/developer and have been coding since the en
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrycodeproj&" alt="henrycodeproj" /></p>
 
 <br></br>
-✍️ <a href ="https://selftechlead.wordpress.com">My Software Engineering Blog</a>
+✍️ <a href ="https://selftechlead.wordpress.com" target="blank" >My Software Engineering Blog</a>
 
 <br></br>
 **Connect with me**\
