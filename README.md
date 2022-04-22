@@ -73,5 +73,8 @@ I am a self taught software engineer/developer and have been coding since the en
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrycodeproj&" alt="henrycodeproj" /></p>
 
 <br></br>
+✍️ <a href ="https://selftechlead.wordpress.com">Personal Blog</a>
+
+<br></br>
 **Connect with me**\
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' title="LinkedIn" align = "center">](https://www.linkedin.com/in/https://www.linkedin.com/in/henryli1998//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title = "Personal Portfolio" align = "center">](https://henryli.info/)  
