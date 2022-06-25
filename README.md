@@ -64,7 +64,7 @@ I am a self taught software engineer/developer and have been coding since the en
 </p>
 
 🏆 ***My current goals:*** I want to create impactful technology for others through the tech industry or through my own personal projects.\
-🎨 ***My personal hobbies:*** Biking, Carwork, aquascaping, coding, chess, adventuring, board games with friends, piano.\
+🎨 ***My personal hobbies:*** Biking, Carwork, Aquascaping, Coding, Chess, Adventuring, Board games with friends, Piano.\
 📫 ***Reach Me:*** lihenryhl.work@gmail.com\
 🔮 ***Fun Fact:*** I am a photographer and my favorite type of photos to shoot are portraits.
 
