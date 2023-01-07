@@ -40,10 +40,6 @@ I am a software engineer/developer and have been coding since the end of my coll
     <img align = "center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title = "SQLite" style = "margin-right:15px;"/> 
 </a>
   
-<a href="https://jestjs.io/" title="Jest" rel="nofollow">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="25" height="25">
-</a>  
-  
 </p>
   
 
@@ -60,6 +56,10 @@ I am a software engineer/developer and have been coding since the end of my coll
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" title = "React"/> 
 </a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="55" height="55" title = "ExpressJS"/> 
+</a>  
   
 </p>
 
