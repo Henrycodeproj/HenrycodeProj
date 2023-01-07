@@ -41,7 +41,7 @@ I am a software engineer/developer and have been coding since the end of my coll
 </a>
   
 <a href="https://jestjs.io/" title="Jest" rel="nofollow">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40" height="40" style="max-width: 100%; margin-right: 15px; padding-top: 15px;">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="45" height="45">
 </a>  
   
 </p>
