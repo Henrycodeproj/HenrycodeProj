@@ -38,7 +38,11 @@ I am a software engineer/developer and have been coding since the end of my coll
   
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img align = "center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title = "SQLite" style = "margin-right:15px;"/> 
-</a> 
+</a>
+  
+<a href="https://jestjs.io/" title="Jest" rel="nofollow">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px" style="max-width: 100%; margin-right:15px;">
+</a>  
   
 </p>
   
