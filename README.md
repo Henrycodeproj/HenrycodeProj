@@ -6,7 +6,7 @@ I am a software engineer/developer and have been coding since the end of my coll
 <p align ="left">
   
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"title = "Bootstrap" style = "margin-right:15px; position: relative; top:5px; /> 
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"title = "Bootstrap" style = "margin-right:15px; position: relative; top:30px; /> 
 </a> 
   
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
