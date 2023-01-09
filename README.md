@@ -66,7 +66,7 @@ I am a software engineer/developer and have been coding since the end of my coll
 🏆 ***My Current Goals:*** I want to create impactful technology for others through the tech industry or through my own personal projects.\
 🎨 ***My Personal Hobbies:*** Biking, Carwork, Aquascaping, Coding, Chess, Adventuring, Board games with friends, Piano.\
 📫 ***Reach Me:*** lihenryhl.work@gmail.com\
-🔮 ***Fun Fact:*** I am a photographer and my favorite type of photos to shoot are portraits.
+🔮 ***Fun Fact:*** I love noodle soup.
 
 <br></br>
 
